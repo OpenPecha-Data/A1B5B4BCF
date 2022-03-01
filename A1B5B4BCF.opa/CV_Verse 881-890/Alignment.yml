@@ -1,0 +1,58 @@
+segment_sources:
+  P8B6CC2EF:
+    type: origin_type
+    relation: translation
+    language: sa
+  P7A43B64C:
+    type: origin_type
+    relation: translation
+    language: zh
+  P218C7B3B:
+    type: origin_type
+    relation: translation
+    language: zh
+  P6FD2C166:
+    type: origin_type
+    relation: translation
+    language: zh
+  P6CE36569:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  b430756199f74fddb4bf9bdedf7544aa:
+    P8B6CC2EF: e9fccf98272c4944ab07aef3e3dffb0c
+    P7A43B64C: 0226ac03fc0a4ed3acd0227a4be4dbd9
+    P218C7B3B: aa0428eb7b864bf0bf3c9b5904eca68b
+    P6FD2C166: 988442ad63524e49a6f63fcb93ceb6f4
+    P6CE36569: 94c04522626149c6bd5b7b5ed8f8ab64
+  5d2b7c15aa5144b795ae24b2f4c3a8c1:
+    P8B6CC2EF: 81857ad6f4b64c55913f982440978767
+    P7A43B64C: a44a9d6577724a3db0ae9e70af8d50b6
+    P218C7B3B: 4063ff37cc424d31b986888937948a5e
+    P6FD2C166: 4eaa27a89a4f42969af7b6f0c85f49a4
+    P6CE36569: 6e1773a2dd8d43af947cd242b04d2775
+  eb964069a38446a0b4e260f82b49a1c1:
+    P8B6CC2EF: adefe50bec0149c9b1aafb59dad7f4bb
+    P7A43B64C: 07087c2cd11b457ea557dded0f640248
+    P218C7B3B: 785cb99a65d74dff9f82dc1c9d466949
+    P6FD2C166: e98a3318ec484428a5c853aa32db93bc
+    P6CE36569: 4a8b7c47202a4299aac0b1dad74e5ebd
+  380cba52b50c4bc2b5362f14d057c2ea:
+    P8B6CC2EF: b63b4295150144ba8b0e18647443110d
+    P7A43B64C: c920485b82414ef082f8edb44dbeda77
+    P218C7B3B: bafcf0893087460daa49a164ba57ad5d
+    P6FD2C166: d55450ebd23a4e6a98ecd5e139182ea2
+    P6CE36569: cb08e42b5b244c0e8a7c5ed4ab7b48a7
+  2dbbc66dc2b142e68ba8f8ccd946380f:
+    P8B6CC2EF: e3953f5e4570430d80bb4164b2ef203a
+    P7A43B64C: 2fcf276d1590497781b0c2e572c80f08
+    P218C7B3B: e201797202794851888449dd0695f987
+    P6FD2C166: c7989b65ff454a13879c091a42287422
+    P6CE36569: f2fac6fff037445bbed84a7495ca7fbd
+  6da767e621df44b0a63a05efcda487d6:
+    P8B6CC2EF: d141be4870624634b9efe2bb10bb2990
+    P7A43B64C: 18e610ea1fed4d5bafd37a525483f038
+    P218C7B3B: 6529ff3210c34ead93b9ab92015fd8e7
+    P6FD2C166: 5ffdfe974dfc4fc5b2ad65ed78444dc9
+    P6CE36569: 2749add988704dffbd410f0487a647b2
